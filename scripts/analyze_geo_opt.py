@@ -1,4 +1,4 @@
-"""Run this script to add/update geometry optimization analysis for new models to
+点点点"""Run this script to add/update geometry optimization analysis for new models to
 individual CSV files (one per symprec value) in a model's directory.
 
 Output files will have the same name as the input file containing the model's relaxed
